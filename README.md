@@ -18,7 +18,7 @@ O Camper Cafe é uma cafeteria virtual estabelecida em 2020, oferecendo uma sele
 
   ## Imagem Demonstrativa
 
-![Camper Cafe](https://example.com/camper-cafe.png)
+[Camper Cafe](https://github.com/leticiaveigacs/coffeeShop/issues/1#issue-2294876124)
 
 ## Como Usar e Download  ☕
 
