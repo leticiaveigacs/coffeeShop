@@ -1,26 +1,25 @@
 # CAMPER CAFE ☕
 
-Este repositório contém o código para o Camper Cafe, uma cafeteria virtual que oferece uma variedade de cafés e sobremesas deliciosas!
+This repository contains the code for Camper Cafe, a virtual café offering a variety of delicious coffees and desserts!
 
-## Sobre o Camper Cafe
+## About Camper Cafe
 
-O Camper Cafe é uma cafeteria virtual estabelecida em 2020, oferecendo uma seleção de cafés aromáticos e sobremesas tentadoras para satisfazer os desejos dos amantes de café e doces.
+Camper Cafe is a virtual café established in 2020, offering a selection of aromatic coffees and tempting desserts to satisfy the cravings of coffee and sweet lovers.
 
-## Comentários Técnicos
+## Technical Comments
 
 ### HTML
-- **Estrutura Semântica**: O código HTML utiliza elementos semânticos como `<header>`, `<main>`, `<section>` e `<footer>` para criar uma estrutura clara e organizada.
-- **Imagens e Links**: Imagens são incorporadas usando a tag `<img>` e links são criados com a tag `<a>`, fornecendo uma experiência visual e de navegação agradável para os usuários.
+- **Semantic Structure**: The HTML code uses semantic elements like `<header>`, `<main>`, `<section>`, and `<footer>` to create a clear and organised structure.
+- **Images and Links**: Images are embedded using the `<img>` tag, and links are created with the `<a>` tag, providing a pleasant visual and navigational experience for users.
 
 ### CSS
-- **Estilização**: O arquivo `styles.css` é vinculado ao documento HTML para aplicar estilos visuais ao conteúdo. Classes e seletores são usados para aplicar estilos específicos a elementos individuais, garantindo consistência e coesão no design.
-- **Layout Responsivo**: O CSS inclui regras de estilo para tornar o layout responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos para uma experiência de usuário otimizada.
+- **Styling**: The `styles.css` file is linked to the HTML document to apply visual styles to the content. Classes and selectors are used to apply specific styles to individual elements, ensuring consistency and cohesion in the design.
+- **Responsive Layout**: The CSS includes style rules to make the layout responsive, adapting to different screen sizes and devices for an optimised user experience.
 
-  ## Imagem Demonstrativa
+## Demonstrative Image
 
 [Camper Cafe](https://github.com/leticiaveigacs/coffeeShop/issues/1#issue-2294876124)
 
-## Como Usar e Download  ☕
+## How to Use and Download ☕
 
-Para visualizar o código-fonte do Camper Cafe e aprender mais sobre HTML e CSS, basta explorar os arquivos neste repositório. Você também pode fazer o download do código-fonte e usá-lo como base para seus próprios projetos, aprendendo e experimentando com HTML e CSS.
-
+To view the source code of Camper Cafe and learn more about HTML and CSS, simply explore the files in this repository. You can also download the source code and use it as a base for your own projects, learning and experimenting with HTML and CSS.
