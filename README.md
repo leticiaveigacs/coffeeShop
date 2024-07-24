@@ -2,7 +2,7 @@
 
 This repository contains the code for Camper Cafe, a virtual café offering a variety of delicious coffees and desserts!
 
-[Click](https://leticiaveigacs.github.io/coffeeShop)
+[Click](https://leticiaveigacs.github.io/coffeeShop/coffeeShop/)
 
 
 
